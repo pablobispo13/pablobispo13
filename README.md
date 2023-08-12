@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, Eu me chamo Pablo!</h1>
-<h3 align="center">Sou um desenvolvedor full-stack do Brazil!</h3>
 
 - 🌱 Atualmente estou estudando **Javascript, Angular, React, Next, Vue, Node, UX e UI**
 
