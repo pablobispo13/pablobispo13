@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, Eu me chamo Pablo!</h1>
 
-- 🌱 Atualmente estou estudando **Javascript, Angular, React, Next, Vue, Node, UX e UI**
+- 🌱 Atualmente estou estudando **React/Typescript, Node, UX e UI**
 
 - 👨‍💻 Todos os meus projetos estão em [https://pablobispo13.github.io/](https://pablobispo13.github.io/)
 
